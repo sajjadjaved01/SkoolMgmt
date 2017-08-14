@@ -1,0 +1,296 @@
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\ApplicationInsights.config
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\csc.exe
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\csc.exe.config
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\csc.rsp
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\csi.exe
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\csi.rsp
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\System.AppContext.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\System.Collections.Immutable.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\System.IO.FileSystem.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\vbc.exe
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\vbc.exe.config
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\vbc.rsp
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\VBCSCompiler.exe
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\roslyn\VBCSCompiler.exe.config
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\SkoolMgmt.dll.config
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\SkoolMgmt.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\SkoolMgmt.pdb
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Antlr3.Runtime.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\EntityFramework.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\EntityFramework.SqlServer.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.Web.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.WindowsServer.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.ApplicationInsights.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Google.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Web.Infrastructure.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Newtonsoft.Json.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Owin.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.Helpers.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.Mvc.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.Optimization.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.Razor.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Deployment.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Razor.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\WebGrease.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.Helpers.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.Mvc.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.Optimization.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.Razor.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Deployment.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Razor.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Antlr3.Runtime.pdb
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Newtonsoft.Json.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\EntityFramework.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\EntityFramework.SqlServer.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Google.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.ApplicationInsights.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.WindowsServer.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.Web.xml
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.csprojResolveAssemblyReference.cache
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.dll
+c:\users\programmer\documents\visual studio 2017\Projects\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.pdb
+C:\Users\Programmer\Documents\Visual Studio 2017\Projects\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.Migrations.InitialStart.resources
+C:\Users\Programmer\Documents\Visual Studio 2017\Projects\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.csproj.GenerateResource.Cache
+D:\SkoolMgmt\SkoolMgmt\bin\ApplicationInsights.config
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\csc.exe
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\csc.exe.config
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\csc.rsp
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\csi.exe
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\csi.rsp
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.AppContext.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.Collections.Immutable.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.IO.FileSystem.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.Reflection.Metadata.dll
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\vbc.exe
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\vbc.exe.config
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\vbc.rsp
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\VBCSCompiler.exe
+D:\SkoolMgmt\SkoolMgmt\bin\roslyn\VBCSCompiler.exe.config
+D:\SkoolMgmt\SkoolMgmt\bin\SkoolMgmt.dll.config
+D:\SkoolMgmt\SkoolMgmt\bin\SkoolMgmt.dll
+D:\SkoolMgmt\SkoolMgmt\bin\SkoolMgmt.pdb
+D:\SkoolMgmt\SkoolMgmt\bin\Antlr3.Runtime.dll
+D:\SkoolMgmt\SkoolMgmt\bin\EntityFramework.dll
+D:\SkoolMgmt\SkoolMgmt\bin\EntityFramework.SqlServer.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.DependencyCollector.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.Web.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.WindowsServer.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.ApplicationInsights.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Google.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Web.Infrastructure.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Newtonsoft.Json.dll
+D:\SkoolMgmt\SkoolMgmt\bin\Owin.dll
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.Helpers.dll
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.Mvc.dll
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.Optimization.dll
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.Razor.dll
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Deployment.dll
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.dll
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Razor.dll
+D:\SkoolMgmt\SkoolMgmt\bin\WebGrease.dll
+D:\SkoolMgmt\SkoolMgmt\bin\EntityFramework.xml
+D:\SkoolMgmt\SkoolMgmt\bin\EntityFramework.SqlServer.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Newtonsoft.Json.xml
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.Helpers.xml
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.Mvc.xml
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.Optimization.xml
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.Razor.xml
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.xml
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Deployment.xml
+D:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Razor.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Antlr3.Runtime.pdb
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Google.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.ApplicationInsights.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.DependencyCollector.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.WindowsServer.xml
+D:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.Web.xml
+D:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.csprojResolveAssemblyReference.cache
+D:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.Migrations.InitialStart.resources
+D:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.csproj.GenerateResource.Cache
+D:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.dll
+D:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.pdb
+D:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.Migrations.AddNameToApplcationUser.resources
+H:\SkoolMgmt\SkoolMgmt\bin\ApplicationInsights.config
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\csc.exe
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\csc.exe.config
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\csc.rsp
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\csi.exe
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\csi.rsp
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.AppContext.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.Collections.Immutable.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.IO.FileSystem.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\System.Reflection.Metadata.dll
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\vbc.exe
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\vbc.exe.config
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\vbc.rsp
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\VBCSCompiler.exe
+H:\SkoolMgmt\SkoolMgmt\bin\roslyn\VBCSCompiler.exe.config
+H:\SkoolMgmt\SkoolMgmt\bin\SkoolMgmt.dll.config
+H:\SkoolMgmt\SkoolMgmt\bin\SkoolMgmt.dll
+H:\SkoolMgmt\SkoolMgmt\bin\SkoolMgmt.pdb
+H:\SkoolMgmt\SkoolMgmt\bin\Antlr3.Runtime.dll
+H:\SkoolMgmt\SkoolMgmt\bin\EntityFramework.dll
+H:\SkoolMgmt\SkoolMgmt\bin\EntityFramework.SqlServer.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.Agent.Intercept.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.DependencyCollector.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.Web.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.WindowsServer.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.ApplicationInsights.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Core.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Cookies.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Facebook.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Google.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.OAuth.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Twitter.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Web.Infrastructure.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Newtonsoft.Json.dll
+H:\SkoolMgmt\SkoolMgmt\bin\Owin.dll
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.Helpers.dll
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.Mvc.dll
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.Optimization.dll
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.Razor.dll
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Deployment.dll
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.dll
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Razor.dll
+H:\SkoolMgmt\SkoolMgmt\bin\WebGrease.dll
+H:\SkoolMgmt\SkoolMgmt\bin\EntityFramework.xml
+H:\SkoolMgmt\SkoolMgmt\bin\EntityFramework.SqlServer.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Cookies.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Newtonsoft.Json.xml
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.Helpers.xml
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.Mvc.xml
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.Optimization.xml
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.Razor.xml
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.xml
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Deployment.xml
+H:\SkoolMgmt\SkoolMgmt\bin\System.Web.WebPages.Razor.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Antlr3.Runtime.pdb
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Core.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Facebook.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.OAuth.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Google.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.Twitter.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.ApplicationInsights.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.DependencyCollector.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.WindowsServer.xml
+H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.Web.xml
+H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.csprojResolveAssemblyReference.cache
+H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.Migrations.InitialStart.resources
+H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.Migrations.AddNameToApplcationUser.resources
+H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.csproj.GenerateResource.Cache
+H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.dll
+H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.pdb
