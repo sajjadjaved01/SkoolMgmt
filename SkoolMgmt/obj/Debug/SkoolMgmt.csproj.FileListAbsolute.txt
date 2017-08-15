@@ -288,9 +288,10 @@ H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.DependencyCollector.xml
 H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.ServerTelemetryChannel.xml
 H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.WindowsServer.xml
 H:\SkoolMgmt\SkoolMgmt\bin\Microsoft.AI.Web.xml
-H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.csprojResolveAssemblyReference.cache
 H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.Migrations.InitialStart.resources
 H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.Migrations.AddNameToApplcationUser.resources
 H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.csproj.GenerateResource.Cache
 H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.dll
 H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.pdb
+H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.csprojResolveAssemblyReference.cache
+H:\SkoolMgmt\SkoolMgmt\obj\Debug\SkoolMgmt.Migrations.AddStudentData.resources

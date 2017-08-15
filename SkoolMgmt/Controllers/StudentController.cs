@@ -2,7 +2,7 @@
 
 namespace SkoolMgmt.Controllers
 {
-    [Authorize(Roles = "Student")]
+    [Authorize]
     public class StudentController : Controller
     {
         // GET: Student

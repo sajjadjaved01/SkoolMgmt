@@ -1,0 +1,12 @@
+﻿.btn {
+    padding: 8px 18px;
+    font-size: 15px;
+}
+
+.form-control {
+    border-radius: 6px;
+}
+
+.field-validation-error {
+    color: red;
+}

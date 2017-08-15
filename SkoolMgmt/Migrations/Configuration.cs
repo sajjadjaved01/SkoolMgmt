@@ -3,7 +3,7 @@ namespace SkoolMgmt.Migrations
     using Microsoft.AspNet.Identity.EntityFramework;
     using System.Data.Entity.Migrations;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<SkoolMgmt.Models.ApplicationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<Models.ApplicationDbContext>
     {
         public Configuration()
         {
